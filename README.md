@@ -11,6 +11,7 @@ Here I would write down every material that I read.
 I'll try to include everything but probably would not find old stuff.
 + [Series of lectures by Andrej Karpathy about neural networks](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 + [Blog post about how python store strings](https://rushter.com/blog/python-strings-and-memory/)
++ [Live coding intro into diffusion models](https://youtu.be/S_il77Ttrmg)
 <!---
 kezif/kezif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
