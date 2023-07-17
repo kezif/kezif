@@ -28,4 +28,6 @@ I'll try to include everything but probably would not find old stuff.
 + [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
 + [Achieving top 5 in Kaggle's facial keypoints detection using FCN](https://fairyonice.github.io/Achieving-top-5-in-Kaggles-facial-keypoints-detection-using-FCN.html)  
 + [Database with wide variety of info in different industries]( https://www.guru99.com/)
++ Beautiful Code: Leading Programmers Explain How They Think
+by Yukihiro Matsumoto, Ya, Yoshiko Kuno [Python dictionaries, numpy iterator charecters]
 </details>
