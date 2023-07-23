@@ -3,7 +3,7 @@
 - 👀 I’m interested in data science and nice music
 - 🌱 I’m currently learning spark and optimisation algorithms
 - 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me [Telegram, LinkedIn]
+- 📫 How to reach me [LinkedIn]
 
 
 # Resources 
