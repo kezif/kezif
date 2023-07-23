@@ -30,4 +30,5 @@ I'll try to include everything but probably would not find old stuff.
 + [Database with wide variety of info in different industries]( https://www.guru99.com/)
 + Beautiful Code: Leading Programmers Explain How They Think
 by Yukihiro Matsumoto, Ya, Yoshiko Kuno [Python dictionaries, numpy iterator charecters]
++ numpy and scipy but using gpu [cupy](https://cupy.dev/)
 </details>
