@@ -31,4 +31,5 @@ I'll try to include everything but probably would not find old stuff.
 + Beautiful Code: Leading Programmers Explain How They Think
 by Yukihiro Matsumoto, Ya, Yoshiko Kuno [Python dictionaries, numpy iterator charecters]
 + numpy and scipy but using gpu [cupy](https://cupy.dev/)
++ [Article](https://holypython.com/how-to-create-plotly-animations-the-ultimate-guide/?expand_article=1) features data source ideas to use in projects in _Data Source Ideas_ section
 </details>
